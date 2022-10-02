@@ -1,0 +1,1 @@
+This is a sticky footer coded with absolute position
